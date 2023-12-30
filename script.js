@@ -16,6 +16,7 @@ $('#down #text h3').textillate({
   },
 })
 
+
 $('#hero h1').textillate({
     in: {
         effect: 'fadeInDown'
