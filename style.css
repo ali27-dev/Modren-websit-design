@@ -83,10 +83,12 @@ body::-webkit-scrollbar{
     text-align: center;
     line-height: 90px;
 }
+
 #down{
 width: 100%;
 margin-top: 330px;
 }
+
 #down #image{
 display: flex;
 justify-content: center;

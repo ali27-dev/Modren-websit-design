@@ -27,6 +27,7 @@ $('#hero h1').textillate({
     }
 })
 
+
 gsap.to('.fader', {
   scrollTrigger: {
   trigger: '#down',
